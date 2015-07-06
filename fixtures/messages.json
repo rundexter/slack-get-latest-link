@@ -1,0 +1,42 @@
+{
+    "channel_history": [
+        {
+            "type": "message",
+            "user": "UUUUUUUUU",
+            "text": "by my gf",
+            "ts": "1428688086.000912"
+        },
+        {
+            "type": "message",
+            "user": "UUUUUUUUU",
+            "text": "i have a feeling mine will get stolen in the middle of the night",
+            "ts": "1428688084.000911"
+        },
+        {
+            "type": "message",
+            "user": "UUUUUUUUU",
+            "text": "I played with it this morning in the store.",
+            "ts": "1428687773.000910"
+        },
+        {
+            "type": "message",
+            "user": "UUUUUUUUU",
+            "text": "<http://www.hinemizushima.com/72050/6059931/felt-sculptures/apple-watch>",
+            "attachments": [
+                {
+                    "title": "(Super Low-Tech) Apple Watch",
+                    "title_link": "http://www.hinemizushima.com/72050/6059931/felt-sculptures/apple-watch",
+                    "text": "Yes, I already got it.",
+                    "fallback": "(Super Low-Tech) Apple Watch",
+                    "image_url": "https://mir-cdn.behance.net/v1/rendition/projects/202/467b0a24375579.55164f27b2496.jpg",
+                    "from_url": "http://www.hinemizushima.com/72050/6059931/felt-sculptures/apple-watch",
+                    "image_width": 202,
+                    "image_height": 158,
+                    "image_bytes": 16438,
+                    "id": 1
+                }
+            ],
+            "ts": "1428687643.000908"
+        }
+    ]
+}

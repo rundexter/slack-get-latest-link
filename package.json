@@ -1,0 +1,18 @@
+{
+    "name": "slack-get-latest-link",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "publishConfig": {
+        "registry": "http://sinopia:4873"
+    },
+    "author": "Someone Somewhere",
+    "license": "ISC",
+    "dependencies": {
+        "lodash": "~3.5.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:betaworks/process-modules.git#slack-get-latest-link"
+    }
+}
