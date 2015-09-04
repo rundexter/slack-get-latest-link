@@ -1,17 +1,18 @@
-/*
- * Metadata describing the module operation
- */
 {
     "inputs": [{
-        "id"    : "messages",
-        "title" : "Messages",
-        "type"  : "array"
+        "id"    : "text",
+        "title" : "Message Text",
+        "type"  : "string"
+    }, {
+        "id"    : "attachment",
+        "title" : "Message Attachments",
+        "type"  : "object"
     }],
     "outputs": [{
-            "id": "url",
-            "title":"URL",
-            "type":"string"
+        "id"    : "url",
+        "title" : "URL",
+        "type"  : "string"
     }],
-    "title": "Slack Get Latest Link", /* Required.A display name for the module */
+    "title": "Slack Get Latest Link",
     "icon": "slack"
 }
