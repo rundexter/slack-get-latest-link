@@ -13,6 +13,6 @@
         "title" : "URL",
         "type"  : "string"
     }],
-    "title": "Slack Get Latest Link",
-    "icon": "slack"
+    "title": "Get Latest Link",
+    "icon": "link"
 }
